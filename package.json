@@ -1,0 +1,23 @@
+{
+  "name": "Rocketseat-NLW7-IMPULSE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcusmartinsxx/Rocketseat-NLW7-IMPULSE.git",
+  "author": "Marcus Martins <vini.mark2002@gmail.com> (https://github.com/marcusmartinsxx)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/app.ts"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "prisma": "^3.14.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.2"
+  }
+}
